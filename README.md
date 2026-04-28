@@ -26,9 +26,9 @@ best practices, and service selection guidance.
 Hands-on guided implementation projects by BTP service area.  
 → [discovery-center.cloud.sap/missionCatalog](https://discovery-center.cloud.sap/missionCatalog)
 
-### SAP Discovery Center — Reference Architecture Catalog
+### SAP Discovery Center 
 Maps reference architectures to related missions and services.  
-→ [discovery-center.cloud.sap/refArchCatalog](https://discovery-center.cloud.sap/refArchCatalog)
+→ [discovery-center.cloud.sap/refArchCatalog](https://discovery-center.cloud.sap)
 
 ---
 
